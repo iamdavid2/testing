@@ -1,10 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
+
+<platform name="android">
+  <preference name="phonegap-version" value="4.0.2" />
+  <preference name="orientation" value="landscape" />
+</platform>
+
 <widget 
 	xmlns="http://www.w3.org/ns/widgets" 
 	xmlns:gap="http://phonegap.com/ns/1.0" 
 	xmlns:android="http://schemas.android.com/apk/res/android"
 	id="com.yourname.workshop"
-	version="1.0.0">
+	version="1.0.8">
     
     <name>Workshop</name>
     <description>
